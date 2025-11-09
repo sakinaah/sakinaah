@@ -11,11 +11,11 @@
 ---
 
 ## 👋 About Me  
-- 🎓 High school senior studying computer science and photography  
+- 🎓 High School Senior studying photography, and animation (College next year, studying computer science) 
 - 🧩 Focused on Lua, JavaScript, and Python projects  
 - 🚀 Building scripts, web tools, and UI elements
 - 🌐 Hosting my work on [Netlify](https://sakinaah.netlify.app)  
 
 ---
 
-[![Sakinah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakinaah&theme=ambient-gradient)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sakinah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakinaah&theme=ambient_gradient)](https://github.com/ashutosh00710/github-readme-activity-graph)
