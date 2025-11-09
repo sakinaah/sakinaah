@@ -14,7 +14,7 @@
 - 🎓 High School Senior studying photography, and animation (College next year, studying computer science) 
 - 🧩 Focused on Lua, JavaScript, and Python projects  
 - 🚀 Building scripts, web tools, and UI elements
-- 🌐 Hosting my work on [Netlify](https://sakinaah.netlify.app)  
+- 🌐 Hosting my work on [here](https://sakinaah.dev)  
 
 ---
 
