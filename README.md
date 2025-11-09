@@ -4,4 +4,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakinaah&theme=ambient_gradient&show_border=false)<br/>
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/egq5b8cHTH) [![](https://komarev.com/ghpvc/?username=sakinaah&label=Profile%20views&color=ce2043&style=flat)]()
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/egq5b8cHTH)
+[![](https://komarev.com/ghpvc/?username=sakinaah&label=Profile%20views&color=ce2043&style=flat)]()
+
+---
+
+## 👋 About Me  
+- 🎓 High school senior studying computer science and photography  
+- 🧩 Focused on Lua, JavaScript, and Python projects  
+- 🚀 Building scripts, web tools, and UI elements
+- 🌐 Hosting my work on [Netlify](https://sakinaah.netlify.app)  
+
+---
+
+[![Sakinah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakinaah&theme=ambient-gradient)](https://github.com/ashutosh00710/github-readme-activity-graph)
