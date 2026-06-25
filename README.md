@@ -11,9 +11,9 @@
 ---
 
 ## 👋 About Me  
-- 🎓 High School Senior studying photography, and animation (College next year, studying computer science) 
-- 🧩 Focused on Lua, JavaScript, and Python projects  
-- 🚀 Building scripts, web tools, and UI elements
+- 🎓 Uni Student studying computer science) 
+- 🧩 Currently focused on Python based projects
+- 🚀 Building open source mc client, web tools, and UI elements
 - 🌐 Hosting my work on [here](https://sakinaah.dev)  
 
 ---
