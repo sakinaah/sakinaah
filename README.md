@@ -57,8 +57,9 @@ Computer Science student focused on building web applications, interface systems
 
 <img src="https://streak-stats.demolab.com?user=sakinaah&theme=iceberg" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakinaah&layout=compact&theme=tokyonight" />
-
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=sakinaah&layout=compact&theme=tokyonight&hide_border=true"
+/>
 </td>
 
 </tr>
