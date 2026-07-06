@@ -5,7 +5,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,ai.ps,discord,bots,git,github)](https://sakinaah.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,ai,ps,discord,bots,git,github)](https://sakinaah.dev)
 
 ## Currently Learning
 
