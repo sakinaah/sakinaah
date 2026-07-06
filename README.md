@@ -1,21 +1,17 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakinaah&theme=ambient_gradient&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=sakinaah&show_icons=true&theme=ambient_gradient)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sakinaah&theme=ambient_gradient&show_border=false)<br/> 
+# Hello! 
+> I'm a first-year university student with the goal of achieving a Computer Science degree.
+> I will be using my platform to display active projects, learning progress, and showcase my work, such as coding-based projects, art, and photography!
 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+## My Skills:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/egq5b8cHTH)
-[![](https://komarev.com/ghpvc/?username=sakinaah&label=Profile%20views&color=ce2043&style=flat)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,ai.ps,discord,bots,git,github)](https://sakinaah.dev)
 
----
+## Currently Learning/Expanding on:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,blender,)](https://sakinaah.dev)
 
-## 👋 About Me  
-- 🎓 Uni Student studying computer science) 
-- 🧩 Currently focused on Python-based projects
-- 🚀 Building open source mc client, web tools, and UI elements
-- 🌐 Hosting my work on [here](https://sakinaah.dev)  
+### See my work: 
+[Portfolio](https://sakinaah.dev)  
 
 ---
-
-[![Sakinah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakinaah&theme=ambient_gradient)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sakinah&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=gruvbox)
+[![Sakinah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakinaah&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
