@@ -13,5 +13,4 @@
 [Portfolio](https://sakinaah.dev)  
 
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sakinah&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=gruvbox)
-[![Sakinah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakinaah&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakinaah&theme=iceberg)](https://git.io/streak-stats) [![Sakinah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakinaah&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
