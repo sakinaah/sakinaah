@@ -1,16 +1,39 @@
-# Hello! 
-> I'm a first-year university student with the goal of achieving a Computer Science degree.
-> I will be using my platform to display active projects, learning progress, and showcase my work, such as coding-based projects, art, and photography!
+# Hello!
 
-## My Skills:
+> I'm a first-year university student pursuing a Computer Science degree.
+> I use this profile to share active projects, document my learning progress, and showcase coding projects, artwork, and photography.
+
+## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,ai.ps,discord,bots,git,github)](https://sakinaah.dev)
 
-## Currently Learning/Expanding on:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,blender,)](https://sakinaah.dev)
+## Currently Learning
 
-### See my work: 
-[Portfolio](https://sakinaah.dev)  
+[![Learning](https://skillicons.dev/icons?i=js,ts,py,blender)](https://sakinaah.dev)
+
+## See My Work
+
+**Portfolio:** https://sakinaah.dev
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakinaah&theme=iceberg)](https://git.io/streak-stats) <br /> [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=tokyonight)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=sakinaah&theme=iceberg"
+          alt="GitHub Streak"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=tokyonight">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=tokyonight"
+          alt="Top Languages"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
