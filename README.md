@@ -20,7 +20,6 @@
 
 Computer Science student focused on building web applications, interface systems, and backend logic. Work emphasizes structure, usability, and iterative improvement. Projects are treated as systems: design, implement, evaluate, refactor, extend.
 
----
 
 ## TECH STACK
 
@@ -58,7 +57,7 @@ Computer Science student focused on building web applications, interface systems
 
 <img src="https://streak-stats.demolab.com?user=sakinaah&theme=iceberg" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakinaah&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakinaah&layout=compact&theme=tokyonight" />
 
 </td>
 
