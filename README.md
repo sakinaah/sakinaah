@@ -39,9 +39,9 @@
 ## LEARNING
 
 <p align="left">
+<code><img src="https://skillicons.dev/icons?i=js" width="32"/></code>
 <code><img src="https://skillicons.dev/icons?i=ts" width="32"/></code>
 <code><img src="https://skillicons.dev/icons?i=py" width="32"/></code>
-<code><img src="https://skillicons.dev/icons?i=react" width="32"/></code>
 <code><img src="https://skillicons.dev/icons?i=nextjs" width="32"/></code>
 </p>
 
