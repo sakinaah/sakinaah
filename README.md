@@ -13,64 +13,24 @@
 
 ## ABOUT
 
-Computer Science student documenting progress through projects in web development, software systems, and creative tools. Work spans frontend interfaces, backend experiments, and visual design exploration. Projects are used as a learning loop: build, break, refine, repeat.
+> Computer Science student documenting progress through projects in web development, software systems, and creative tools. Work spans frontend interfaces, backend experiments, and visual design exploration. Projects are used as a learning loop: build, break, refine, repeat.
+
 ---
 
 ## TECH STACK
 
 <p align="left">
 
-<code><a href="https://ARCH_LINUX_LINK" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" alt="Arch Linux" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://ZED_LINK" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/79345384?s=48&v=4" alt="Zed" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://BUN_LINK" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/b1184684a8f1e07c7075044f13d5500c0bc3ec04/topics/bun/bun.png" alt="BunJS" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://LYNXJS_LINK" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/200909301?s=200&v=4" alt="LynxJS" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://SOLIDJS_LINK" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" alt="SolidJS" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://REACT_LINK" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://TAILWIND_LINK" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="TailwindCSS" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://UNOCSS_LINK" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/93899228?s=200&v=4" alt="UnoCSS" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://UNREAL_ENGINE_LINK" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/6615685?s=200&v=4" alt="Unreal Engine" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://POSTGRESQL_LINK" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://DOCKER_LINK" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://GIT_LINK" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="30" height="30"/>
-</a></code>
-
-<code><a href="https://PERFORCE_LINK" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/29477654?s=200&v=4" alt="Perforce" width="30" height="30"/>
-</a></code>
+<code><a href="https://javascript.com" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="30" height="30" alt="JavaScript"/></a></code>
+<code><a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="30" height="30" alt="TypeScript"/></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30" height="30" alt="HTML"/></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="30" height="30" alt="CSS"/></a></code>
+<code><a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="30" height="30" alt="Python"/></a></code>
+<code><a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git"/></a></code>
+<code><a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="GitHub"/></a></code>
+<code><a href="https://www.blender.org" target="_blank"><img src="https://skillicons.dev/icons?i=blender" width="30" height="30" alt="Blender"/></a></code>
+<code><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" width="30" height="30" alt="Photoshop"/></a></code>
+<code><a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai" width="30" height="30" alt="Illustrator"/></a></code>
 
 </p>
 
