@@ -22,7 +22,7 @@
     <td>
       <a href="https://git.io/streak-stats">
         <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user?user=sakinaah&theme=iceberg"
+          src="https://streak-stats.demolab.com?user=sakinaah&theme=iceberg"
           alt="GitHub Streak"
         />
       </a>
