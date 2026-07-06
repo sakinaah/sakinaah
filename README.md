@@ -13,4 +13,4 @@
 [Portfolio](https://sakinaah.dev)  
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakinaah&theme=iceberg)](https://git.io/streak-stats) [![Sakinah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakinaah&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakinaah&theme=iceberg)](https://git.io/streak-stats)
