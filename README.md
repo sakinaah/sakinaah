@@ -13,4 +13,4 @@
 [Portfolio](https://sakinaah.dev)  
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakinaah&theme=iceberg)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakinaah&theme=iceberg)](https://git.io/streak-stats) <br /> [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=tokyonight)
