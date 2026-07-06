@@ -28,10 +28,11 @@ Computer Science student focused on building web applications, interface systems
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=html" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=css" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=py" width="34"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=discord" width="34"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=bots" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=git" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=github" width="34"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=react" width="34"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=nextjs" width="34"/></code></a>
+
 
 </p>
 
