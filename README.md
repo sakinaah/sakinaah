@@ -1,19 +1,24 @@
 # Hi there
 
-> Computer Science student building web systems, UI-driven interfaces, and creative technical projects.
-> Focused on shipping functional work, refining design systems, and improving implementation depth.
+> Computer Science student building web systems, UI-driven interfaces, and software projects.
+> Focused on shipping functional work, improving architecture, and refining implementation quality.
 
 ---
 
 ## LINKS
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://sakinaah.dev)
+[![ENTER PORTFOLIO](https://img.shields.io/badge/ENTER%20PORTFOLIO-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://sakinaah.dev)
 
 ---
 
+<table>
+<tr>
+
+<td width="70%" valign="top">
+
 ## ABOUT
 
-Computer Science student working across web development, software systems, and visual tooling. Focus is on building usable interfaces, backend logic, and design-aware frontends. Projects are treated as iterative systems: build, evaluate, refactor, and scale.
+Computer Science student focused on building web applications, interface systems, and backend logic. Work emphasizes structure, usability, and iterative improvement. Projects are treated as systems: design, implement, evaluate, refactor, extend.
 
 ---
 
@@ -21,83 +26,41 @@ Computer Science student working across web development, software systems, and v
 
 <p align="left">
 
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=js" width="34" height="34" alt="JavaScript"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=ts" width="34" height="34" alt="TypeScript"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=html" width="34" height="34" alt="HTML"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=css" width="34" height="34" alt="CSS"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=py" width="34" height="34" alt="Python"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=git" width="34" height="34" alt="Git"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=github" width="34" height="34" alt="GitHub"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=blender" width="34" height="34" alt="Blender"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=ps" width="34" height="34" alt="Photoshop"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=ai" width="34" height="34" alt="Illustrator"/></code>
-</a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=js" width="34"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=ts" width="34"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=html" width="34"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=css" width="34"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=py" width="34"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=git" width="34"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=github" width="34"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=react" width="34"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=nextjs" width="34"/></code></a>
 
 </p>
 
 ---
 
-## LEARNING
+## CURRENT FOCUS
 
 <p align="left">
 
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=js" width="34" height="34" alt="JavaScript"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=ts" width="34" height="34" alt="TypeScript"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=py" width="34" height="34" alt="Python"/></code>
-</a>
-
-<a href="https://sakinaah.dev" target="_blank">
-<code><img src="https://skillicons.dev/icons?i=nextjs" width="34" height="34" alt="Next.js"/></code>
-</a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=ts" width="32"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=py" width="32"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=js" width="32"/></code></a>
 
 </p>
 
----
+</td>
+
+<td width="30%" valign="top">
 
 ## STATS
 
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=sakinaah&theme=iceberg" />
-    </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sakinaah&langs_count=4&theme=tokyonight" />
-    </td>
-  </tr>
+<img src="https://streak-stats.demolab.com?user=sakinaah&theme=iceberg" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakinaah&layout=compact&theme=tokyonight" />
+
+</td>
+
+</tr>
 </table>
