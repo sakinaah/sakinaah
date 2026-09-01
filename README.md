@@ -7,7 +7,7 @@
 
 ## LINKS
 
-[![ENTER PORTFOLIO](https://img.shields.io/badge/ENTER%20PORTFOLIO-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://sakinaah.dev)
+[![ENTER PORTFOLIO](https://img.shields.io/badge/ENTER%20PORTFOLIO-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielwinstead.com)
 
 <table>
 <tr>
